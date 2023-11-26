@@ -37,7 +37,9 @@ body {
 }
 
 header {
-	font-size: 1.2em;	
+	font-size: 1.2em;
+	display:flex;
+	flex-wrap: wrap;
 }
 
 header figure {
@@ -45,20 +47,19 @@ header figure {
     height: 100px;
     border-radius: 50%;
     overflow: hidden;
-	float:left;
 	margin:auto 2em;
 }
 
 @media screen and (max-width:600px){
-	header figure {
-		float:unset;
+	header ul {
+		width:100%;
 	}
 }
 
 
 header ul {
+	margin-top:1.5em;
 	list-style-type: none;
-	margin-left:7em;
 }
 
 img[alt*="icon"] {
@@ -89,6 +90,7 @@ h2 {
 
 section {
 	width: 400px;
+	max-width: 97%;
 	box-shadow: 0.125rem 0.125rem 1rem rgba(0,0,0,0.2);
 	margin:10px;
 	border-radius:0.5rem;
