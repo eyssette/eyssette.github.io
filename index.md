@@ -133,6 +133,9 @@ https://github.com/eyssette/weenote-reloaded
 
 ### D'autres petites applications
 
+**Apprendre les prénoms** : un outil pour mémoriser plus facilement les prénoms de ses élèves à partir des trombinoscopes sur Pronote
+https://eyssette.github.io/apprendre/prenoms.html
+
 **Mark(down)Papers** permet de corriger des copies en Markdown
 https://eyssette.github.io/mark-down-papers/
 
