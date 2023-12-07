@@ -130,11 +130,7 @@ https://eyssette.github.io/vite-un-diapo/
 **weenote-reloaded** est l'outil sur lequel se fonde ViteUnDiapo
 https://github.com/eyssette/weenote-reloaded
 
-
-### D'autres petites applications
-
-**Apprendre les prénoms** : un outil pour mémoriser plus facilement les prénoms de ses élèves à partir des trombinoscopes sur Pronote
-https://eyssette.github.io/apprendre/prenoms.html
+### Pour la philosophie
 
 **Mark(down)Papers** permet de corriger des copies en Markdown
 https://eyssette.github.io/mark-down-papers/
@@ -144,6 +140,17 @@ https://eyssette.github.io/evaluation-rapide/
 
 **PhiloMots** est un jeu du type Wordle / Sutom, mais avec des termes ou des thèmes philosophiques
 https://eyssette.github.io/philomots/
+
+### D'autres petites applications
+
+**Apprendre les prénoms** : un outil pour mémoriser plus facilement les prénoms de ses élèves à partir des trombinoscopes sur Pronote
+https://eyssette.github.io/apprendre/prenoms.html
+
+**Cards** : un thème pour Marp qui permet de créer des documents au format cartes à jouer
+https://eyssette.github.io/cards/
+
+**Calendrier-avent** : un outil pour créer un calendrier de l'avent en ligne
+https://eyssette.github.io/calendrier-avent
 
 **CombienDeMots** est un compteur de mots qui permet aussi d'estimer le temps de lecture et d'écriture d'un texte
 https://eyssette.github.io/combiendemots/
