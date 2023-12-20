@@ -22,19 +22,19 @@ lang: fr
 
 **Des cours de philosophie** tronc commun en série générale ou technologique, mais aussi des cours de **HLP** et en **DNL Anglais/Philosophie**.
 
-https://eyssette.forge.aeif.fr/cours/
+https://eyssette.github.io/cours/
 
 ### Formations
 
 **Des formations** sur le numérique, sur le cinéma en philosophie et des formations pédagogiques avec le groupe ressources de l'académie de Lyon
 
-https://eyssette.forge.aeif.fr/cours/#formations
+https://eyssette.github.io/cours/#formations
 
 ### Ressources pour les collègues
 
 **Des ressources pour l'enseignement de la philosophie** à destination des collègues : base de données de sujets, outils pour la correction des copies …
 
-https://eyssette.forge.aeif.fr/ressources-generales-enseignement-philosophie/
+https://eyssette.github.io/ressources-generales-enseignement-philosophie/
 
 ## Logiciels en ligne libres et gratuits
 
@@ -154,10 +154,10 @@ https://eyssette.forge.aeif.fr/philomots/
 https://eyssette.forge.aeif.fr/apprendre/prenoms.html
 
 **Cards** : un thème pour Marp qui permet de créer des documents au format cartes à jouer
-https://eyssette.forge.aeif.fr/cards/
+https://eyssette.github.io/cards/
 
 **Calendrier-avent** : un outil pour créer un calendrier de l'avent en ligne
 https://eyssette.forge.aeif.fr/calendrier-avent
 
 **CombienDeMots** est un compteur de mots qui permet aussi d'estimer le temps de lecture et d'écriture d'un texte
-https://eyssette.forge.aeif.fr/combiendemots/
+https://eyssette.github.io/combiendemots/
