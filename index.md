@@ -154,10 +154,10 @@ https://eyssette.forge.aeif.fr/philomots/
 https://eyssette.forge.aeif.fr/apprendre/prenoms.html
 
 **Cards** : un thème pour Marp qui permet de créer des documents au format cartes à jouer
-https://eyssette.github.io/cards/
+https://forge.aeif.fr/eyssette/cards
 
 **Calendrier-avent** : un outil pour créer un calendrier de l'avent en ligne
 https://eyssette.forge.aeif.fr/calendrier-avent
 
 **CombienDeMots** est un compteur de mots qui permet aussi d'estimer le temps de lecture et d'écriture d'un texte
-https://eyssette.github.io/combiendemots/
+https://eyssette.forge.aeif.fr/combiendemots/
