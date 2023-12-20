@@ -22,19 +22,19 @@ lang: fr
 
 **Des cours de philosophie** tronc commun en série générale ou technologique, mais aussi des cours de **HLP** et en **DNL Anglais/Philosophie**.
 
-https://eyssette.github.io/cours/
+https://eyssette.forge.aeif.fr/cours/
 
 ### Formations
 
 **Des formations** sur le numérique, sur le cinéma en philosophie et des formations pédagogiques avec le groupe ressources de l'académie de Lyon
 
-https://eyssette.github.io/cours/#formations
+https://eyssette.forge.aeif.fr/cours/#formations
 
 ### Ressources pour les collègues
 
 **Des ressources pour l'enseignement de la philosophie** à destination des collègues : base de données de sujets, outils pour la correction des copies …
 
-https://eyssette.github.io/ressources-generales-enseignement-philosophie/
+https://eyssette.forge.aeif.fr/ressources-generales-enseignement-philosophie/
 
 ## Logiciels en ligne libres et gratuits
 
@@ -44,7 +44,7 @@ https://eyssette.github.io/ressources-generales-enseignement-philosophie/
 
 **A4** permet de mettre en forme automatiquement un texte de manière optimale sur une page A4 prête à imprimer
 
-https://eyssette.github.io/a4/convert.html
+https://eyssette.forge.aeif.fr/a4/convert.html
 
 ### Argument map
 
@@ -52,7 +52,7 @@ https://eyssette.github.io/a4/convert.html
 
 **Argument map** permet de créer des schémas d'arguments afin de mettre en évidence la structure du raisonnement et les objections possibles
 
-https://eyssette.github.io/argument-map/
+https://eyssette.forge.aeif.fr/argument-map/
 
 ### ChatMD
 
@@ -60,7 +60,7 @@ https://eyssette.github.io/argument-map/
 
 **ChatMD** est un chatbot que l'on peut configurer avec un fichier en Markdown
 
-https://eyssette.github.io/chatMD/
+https://eyssette.forge.aeif.fr/chatMD/
 
 
 ### CSE : Custom Searx Engine
@@ -69,7 +69,7 @@ https://eyssette.github.io/chatMD/
 
 **CSE** est un outil pour créer un moteur de recherche personnalisé qui fera des recherches exclusivement sur une liste de sites que l'on définit soi-même dans un fichier en Markdown
 
-https://eyssette.github.io/cse/
+https://eyssette.forge.aeif.fr/cse/
 
 
 
@@ -80,7 +80,7 @@ https://eyssette.github.io/cse/
 
 **Dataview** permet de transformer des données au format CSV ou Markdown en un tableau avec un outil de recherche et de classement des données
 
-https://eyssette.github.io/dataview/
+https://eyssette.forge.aeif.fr/dataview/
 
 ### Markpage
 
@@ -120,44 +120,44 @@ https://codimd.apps.education.fr/s/bGcFVkgLS
 
 **Graphviz** permet de créer des schémas à partir d'un texte en respectant une syntaxe particulière. Je propose plusieurs modèles pour faire des distinctions théoriques, des schémas d'arguments, des plans …
 
-https://github.com/eyssette/graphviz-templates
+https://forge.aeif.fr/eyssette/graphviz-templates
 
 **Mermaid** permet de faire la même chose, avec une syntaxe différente
 
-https://github.com/eyssette/mermaid-diagrams
+https://forge.aeif.fr/eyssette/mermaid-diagrams
 
 ### Pour faire un diaporama
 
 **Marp** est un outil qui permet de transformer du Markdown en un diaporama. **Teaching Theme** est un thème pour cet excellent outil
-https://github.com/eyssette/teaching-theme-for-marp
+https://forge.aeif.fr/eyssette/teaching-theme-for-marp
 
 **ViteUnDiapo** permet de créer très rapidement un diaporama simple à partir d'un texte en Markdown
-https://eyssette.github.io/vite-un-diapo/
+https://eyssette.forge.aeif.fr/vite-un-diapo/
 
 **weenote-reloaded** est l'outil sur lequel se fonde ViteUnDiapo
-https://github.com/eyssette/weenote-reloaded
+https://forge.aeif.fr/eyssette/weenote-reloaded
 
 ### Pour la philosophie
 
 **Mark(down)Papers** permet de corriger des copies en Markdown
-https://eyssette.github.io/mark-down-papers/
+https://eyssette.forge.aeif.fr/mark-down-papers/
 
 **Évaluation rapide** permet de rapidement estimer la note d'une copie
-https://eyssette.github.io/evaluation-rapide/
+https://eyssette.forge.aeif.fr/evaluation-rapide/
 
 **PhiloMots** est un jeu du type Wordle / Sutom, mais avec des termes ou des thèmes philosophiques
-https://eyssette.github.io/philomots/
+https://eyssette.forge.aeif.fr/philomots/
 
 ### D'autres petites applications
 
 **Apprendre les prénoms** : un outil pour mémoriser plus facilement les prénoms de ses élèves à partir des trombinoscopes sur Pronote
-https://eyssette.github.io/apprendre/prenoms.html
+https://eyssette.forge.aeif.fr/apprendre/prenoms.html
 
 **Cards** : un thème pour Marp qui permet de créer des documents au format cartes à jouer
-https://eyssette.github.io/cards/
+https://eyssette.forge.aeif.fr/cards/
 
 **Calendrier-avent** : un outil pour créer un calendrier de l'avent en ligne
-https://eyssette.github.io/calendrier-avent
+https://eyssette.forge.aeif.fr/calendrier-avent
 
 **CombienDeMots** est un compteur de mots qui permet aussi d'estimer le temps de lecture et d'écriture d'un texte
-https://eyssette.github.io/combiendemots/
+https://eyssette.forge.aeif.fr/combiendemots/
