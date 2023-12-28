@@ -23,6 +23,7 @@ section {
 }
 section p {
 	color: var(--section-p-text-color);
+	overflow-wrap: break-word;
 }
 
 body {
