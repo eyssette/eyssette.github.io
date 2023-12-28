@@ -151,7 +151,7 @@ img {
 	width: fill-available;
 	border-radius: 0.5rem 0.5rem 0 0;
 	height: 300px;
-	max-width: 97%;
+	max-width: 100%;
 }
 
 figure img {
