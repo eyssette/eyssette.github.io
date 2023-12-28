@@ -24,7 +24,7 @@ def add_content(html):
 def add_sections(html):
 	html=html.replace('<div id="content">\n<h3','<div id="content">\n<section>\n<h3')
 	html=html.replace("</p>\n<h3","</p>\n</section>\n<section>\n<h3")
-	html=html.replace("</p>\n<h2","</p>\n</section>\n<h2")
+	html=html.replace("</p>\n<h2","</p>\n</section>\n</div><h2")
 	html=html.replace("</body>","</section>\n</body>")
 	return html
 
