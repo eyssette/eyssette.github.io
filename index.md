@@ -90,6 +90,14 @@ https://eyssette.forge.aeif.fr/dataview/
 
 https://eyssette.forge.aeif.fr/markpage/
 
+### Marknews
+
+![Page d'accueil de l'application Marknews : l'application affiche des onglets thématiques que l'on peut définir soi-même et pour chaque onglet la liste des articles issus des flux RSS qu'on a sélectionnés](https://minio.apps.education.fr/codimd-prod/uploads/upload_3ba3ed31b70cafd5b58fa52bd1f6006a.png) 
+
+**Marknews** permet de se faire un tableau de bord de flux RSS et d'organiser sa veille, à partir d'un fichier en Markdown (par exemple sur CodiMD)
+
+https://eyssette.forge.aeif.fr/marknews/
+
 ### myMarkmap
 
 ![Interface du logiciel myMarkmap : on voit une carte mentale qui est automatiquement générée par le logiciel à partir d'un texte en Markdown que l'on peut rentrer dans le logiciel en ligne](https://minio.apps.education.fr/codimd-prod/uploads/upload_8e3fe91f04ef0f582cbf5ef9d9e3238f.png) 
