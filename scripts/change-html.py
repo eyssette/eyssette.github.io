@@ -29,7 +29,7 @@ def add_sections(html):
 	return html
 
 def change_position_image(html):
-	regex = r'(<h3.*\n?.*?<\/h3>)\n(<p.*\n.*\n.* </p>)'
+	regex = r'(<h3.*\n?.*?<\/h3>)\n(<p.*\n*.*\n*.* </p>)'
 	def position(match):
 		h3 = match.group(1)
 		img = match.group(2)
