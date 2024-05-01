@@ -40,7 +40,7 @@ https://eyssette.github.io/ressources-generales-enseignement-philosophie/
 
 ### A4
 
-![Interface du logiciel A4 : un champ texte à remplir et un bouton pour convertir son texte en une page A4 prête à imprimer](https://minio.apps.education.fr/codimd-prod/uploads/upload_1f181c3c9f87c88f9e9ff6704c1a251d.png) 
+![Interface du logiciel A4 : un champ texte à remplir et un bouton pour convertir son texte en une page A4 prête à imprimer](img/a4.png) 
 
 **A4** permet de mettre en forme automatiquement un texte de manière optimale sur une page A4 prête à imprimer
 
@@ -48,7 +48,7 @@ https://eyssette.forge.aeif.fr/a4/convert.html
 
 ### Argument map
 
-![Interface du logiciel Argument map : chaque idée est dans une boîte liée à d'autres par des liens logiques ; une boîte et une flèche rouge signifie qu'on a une objection contre une idée](https://minio.apps.education.fr/codimd-prod/uploads/upload_ab470ce3a1c6c6c03ca4f582c38eee6e.png) 
+![Interface du logiciel Argument map : chaque idée est dans une boîte liée à d'autres par des liens logiques ; une boîte et une flèche rouge signifie qu'on a une objection contre une idée](img/argumentMap.png) 
 
 **Argument map** permet de créer des schémas d'arguments afin de mettre en évidence la structure du raisonnement et les objections possibles
 
@@ -56,7 +56,7 @@ https://eyssette.forge.aeif.fr/argument-map/
 
 ### ChatMD
 
-![Interface du logiciel ChatMD : on a un chatbot avec un champ texte et le chatbot nous répond en fonction de ce qu'on lui indique](https://minio.apps.education.fr/codimd-prod/uploads/upload_b6301cac3304d5c5db3c9425021af554.png) 
+![Interface du logiciel ChatMD : on a un chatbot avec un champ texte et le chatbot nous répond en fonction de ce qu'on lui indique](img/chatMD.png) 
 
 **ChatMD** est un chatbot que l'on peut configurer avec un fichier en Markdown
 
@@ -65,7 +65,7 @@ https://eyssette.forge.aeif.fr/chatMD/
 
 ### CSE : Custom Searx Engine
 
-![Interface du logiciel CSE : on indique dans un champ texte l'objet de sa recherche et le logiciel nous renvoie vers les résultats de cette recherche sur une liste de sites prédéfinie](https://minio.apps.education.fr/codimd-prod/uploads/upload_4fc09e1b072f16f05fa2a971e856c3f3.png) 
+![Interface du logiciel CSE : on indique dans un champ texte l'objet de sa recherche et le logiciel nous renvoie vers les résultats de cette recherche sur une liste de sites prédéfinie](img/cse.png) 
 
 **CSE** est un outil pour créer un moteur de recherche personnalisé qui fera des recherches exclusivement sur une liste de sites que l'on définit soi-même dans un fichier en Markdown
 
@@ -76,31 +76,31 @@ https://eyssette.forge.aeif.fr/cse/
 
 ### Dataview
 
-![Interface du logiciel Dataview : on indique la source de ses données et on peut ensuite convertir ses données en un tableau plus agréable à lire, avec un outil de recherche](https://minio.apps.education.fr/codimd-prod/uploads/upload_4652b8e3c268aa949d1c945e49cb46f6.png) 
+![Interface du logiciel Dataview : on indique la source de ses données et on peut ensuite convertir ses données en un tableau plus agréable à lire, avec un outil de recherche](img/dataview.png) 
 
 **Dataview** permet de transformer des données au format CSV ou Markdown en un tableau avec un outil de recherche et de classement des données
 
 https://eyssette.forge.aeif.fr/dataview/
 
-### Markpage
-
-![Page d'accueil de l'application Markpage : l'application affiche un message initial qu'on peut configurer, puis des boutons qui sont des liens vers différents onglets (qu'on retrouve en bas de page).  Il y a aussi un outil de recherche intégré en haut à droite.](https://minio.apps.education.fr/codimd-prod/uploads/upload_7ffe7c0e933057ceb846d28682981db3.png) 
-
-**Markpage** permet de faire, comme Glide, un minisite web / une appli mobile à partir d'un fichier en Markdown (par exemple sur CodiMD)
-
-https://eyssette.forge.aeif.fr/markpage/
-
 ### Marknews
 
-![Page d'accueil de l'application Marknews : l'application affiche des onglets thématiques que l'on peut définir soi-même et pour chaque onglet la liste des articles issus des flux RSS qu'on a sélectionnés](https://minio.apps.education.fr/codimd-prod/uploads/upload_3ba3ed31b70cafd5b58fa52bd1f6006a.png) 
+![Page d'accueil de l'application Marknews : l'application affiche des onglets thématiques que l'on peut définir soi-même et pour chaque onglet la liste des articles issus des flux RSS qu'on a sélectionnés](img/marknews.png) 
 
 **Marknews** permet de se faire un tableau de bord de flux RSS et d'organiser sa veille, à partir d'un fichier en Markdown (par exemple sur CodiMD)
 
 https://eyssette.forge.aeif.fr/marknews/
 
+### Markpage
+
+![Page d'accueil de l'application Markpage : l'application affiche un message initial qu'on peut configurer, puis des boutons qui sont des liens vers différents onglets (qu'on retrouve en bas de page).  Il y a aussi un outil de recherche intégré en haut à droite.](img/markpage.png) 
+
+**Markpage** permet de faire, comme Glide, un minisite web / une appli mobile à partir d'un fichier en Markdown (par exemple sur CodiMD)
+
+https://eyssette.forge.aeif.fr/markpage/
+
 ### myMarkmap
 
-![Interface du logiciel myMarkmap : on voit une carte mentale qui est automatiquement générée par le logiciel à partir d'un texte en Markdown que l'on peut rentrer dans le logiciel en ligne](https://minio.apps.education.fr/codimd-prod/uploads/upload_8e3fe91f04ef0f582cbf5ef9d9e3238f.png) 
+![Interface du logiciel myMarkmap : on voit une carte mentale qui est automatiquement générée par le logiciel à partir d'un texte en Markdown que l'on peut rentrer dans le logiciel en ligne](img/myMarkmap.png) 
 
 **myMarkmap** est un outil pour créer des cartes mentales en Markdown
 
@@ -109,7 +109,7 @@ https://mymarkmap.netlify.app/
 
 ### Text2quiz
 
-![Interface du logiciel Text2quiz : on voit un quiz généré par text2quiz avec un vrai/faux et un qcm](https://minio.apps.education.fr/codimd-prod/uploads/upload_55011a49f7b00c60ed67186445efc633.png) 
+![Interface du logiciel Text2quiz : on voit un quiz généré par text2quiz avec un vrai/faux et un qcm](img/text2quiz.png) 
 
 **Text2quiz** permet de créer automatiquement un quiz à partir d'un simple fichier texte. 13 types de question sont possibles : vrai/faux, QCM, question/réponse, textes à trous, flashcards, remise en ordre, étiquettes à positionner …
 
