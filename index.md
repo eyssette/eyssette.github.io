@@ -71,9 +71,6 @@ https://eyssette.forge.aeif.fr/chatMD/
 
 https://eyssette.forge.aeif.fr/cse/
 
-
-
-
 ### Dataview
 
 ![Interface du logiciel Dataview : on indique la source de ses données et on peut ensuite convertir ses données en un tableau plus agréable à lire, avec un outil de recherche](img/dataview.png) 
@@ -81,6 +78,14 @@ https://eyssette.forge.aeif.fr/cse/
 **Dataview** permet de transformer des données au format CSV ou Markdown en un tableau avec un outil de recherche et de classement des données
 
 https://eyssette.forge.aeif.fr/dataview/
+
+### Flipbook
+
+![Page d'accueil de l'application Flipbook : on voit une page ouverte d'un livre avec un fond de couverture un peu doré](img/flipbook.png) 
+
+**Flipbook** permet de créer facilement un livre numérique que l'on peut feuilleter en ligne à partir d'un simple fichier Markdown (sur la forge ou sur CodiMD).
+
+https://eyssette.forge.apps.education.fr/flipbook/
 
 ### Marknews
 
