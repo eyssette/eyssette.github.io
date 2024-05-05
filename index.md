@@ -22,19 +22,19 @@ lang: fr
 
 **Des cours de philosophie** tronc commun en série générale ou technologique, mais aussi des cours de **HLP** et en **DNL Anglais/Philosophie**.
 
-https://eyssette.github.io/cours/
+https://eyssette.forge.apps.education.fr/cours/
 
 ### Formations
 
 **Des formations** sur le numérique, sur le cinéma en philosophie et des formations pédagogiques avec le groupe ressources de l'académie de Lyon
 
-https://eyssette.github.io/cours/#formations
+https://eyssette.forge.apps.education.fr/cours/#formations
 
 ### Ressources pour les collègues
 
 **Des ressources pour l'enseignement de la philosophie** à destination des collègues : base de données de sujets, outils pour la correction des copies …
 
-https://eyssette.github.io/ressources-generales-enseignement-philosophie/
+https://eyssette.forge.apps.education.fr/ressources-generales-enseignement-philosophie/
 
 ## Logiciels en ligne libres et gratuits
 
