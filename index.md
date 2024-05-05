@@ -11,7 +11,7 @@ lang: fr
 - Professeur de philosophie
 - Enseignant en DNL Anglais
 - Chargé de projet à la DRANE site de Lyon
-- [![Mastodon icon](img/mastodon.svg)](https://scholar.social/@eyssette) [![Forge des Communs Numériques Éducatifs icon](img/brigit.png)](https://forge.aeif.fr/eyssette) [![Github icon](img/github.svg)](https://github.com/eyssette) [![Facebook icon](img/facebook.svg)](https://www.facebook.com/cedric.eyssette) [![Linkedin icon](img/linkedin.svg)](https://www.linkedin.com/in/eyssette/)
+- [![Mastodon icon](img/mastodon.svg)](https://scholar.social/@eyssette) [![Forge des Communs Numériques Éducatifs icon](img/brigit.png)](https://forge.apps.education.fr/eyssette) [![Github icon](img/github.svg)](https://github.com/eyssette) [![Facebook icon](img/facebook.svg)](https://www.facebook.com/cedric.eyssette) [![Linkedin icon](img/linkedin.svg)](https://www.linkedin.com/in/eyssette/)
 
 
 # Les sites et outils numériques que je propose
@@ -44,7 +44,7 @@ https://eyssette.github.io/ressources-generales-enseignement-philosophie/
 
 **A4** permet de mettre en forme automatiquement un texte de manière optimale sur une page A4 prête à imprimer
 
-https://eyssette.forge.aeif.fr/a4/convert.html
+https://eyssette.forge.apps.education.fr/a4/convert.html
 
 ### Argument map
 
@@ -52,7 +52,7 @@ https://eyssette.forge.aeif.fr/a4/convert.html
 
 **Argument map** permet de créer des schémas d'arguments afin de mettre en évidence la structure du raisonnement et les objections possibles
 
-https://eyssette.forge.aeif.fr/argument-map/
+https://eyssette.forge.apps.education.fr/argument-map/
 
 ### ChatMD
 
@@ -60,7 +60,7 @@ https://eyssette.forge.aeif.fr/argument-map/
 
 **ChatMD** est un chatbot que l'on peut configurer avec un fichier en Markdown
 
-https://eyssette.forge.aeif.fr/chatMD/
+https://eyssette.forge.apps.education.fr/chatMD/
 
 
 ### CSE : Custom Searx Engine
@@ -69,7 +69,7 @@ https://eyssette.forge.aeif.fr/chatMD/
 
 **CSE** est un outil pour créer un moteur de recherche personnalisé qui fera des recherches exclusivement sur une liste de sites que l'on définit soi-même dans un fichier en Markdown
 
-https://eyssette.forge.aeif.fr/cse/
+https://eyssette.forge.apps.education.fr/cse/
 
 ### Dataview
 
@@ -77,7 +77,7 @@ https://eyssette.forge.aeif.fr/cse/
 
 **Dataview** permet de transformer des données au format CSV ou Markdown en un tableau avec un outil de recherche et de classement des données
 
-https://eyssette.forge.aeif.fr/dataview/
+https://eyssette.forge.apps.education.fr/dataview/
 
 ### Flipbook
 
@@ -93,7 +93,7 @@ https://eyssette.forge.apps.education.fr/flipbook/
 
 **Marknews** permet de se faire un tableau de bord de flux RSS et d'organiser sa veille, à partir d'un fichier en Markdown (par exemple sur CodiMD)
 
-https://eyssette.forge.aeif.fr/marknews/
+https://eyssette.forge.apps.education.fr/marknews/
 
 ### Markpage
 
@@ -101,7 +101,7 @@ https://eyssette.forge.aeif.fr/marknews/
 
 **Markpage** permet de faire, comme Glide, un minisite web / une appli mobile à partir d'un fichier en Markdown (par exemple sur CodiMD)
 
-https://eyssette.forge.aeif.fr/markpage/
+https://eyssette.forge.apps.education.fr/markpage/
 
 ### myMarkmap
 
@@ -109,7 +109,7 @@ https://eyssette.forge.aeif.fr/markpage/
 
 **myMarkmap** est un outil pour créer des cartes mentales en Markdown
 
-https://mymarkmap.netlify.app/
+https://eyssette.forge.apps.education.fr/myMarkmap
 
 
 ### Text2quiz
@@ -133,44 +133,44 @@ https://codimd.apps.education.fr/s/bGcFVkgLS
 
 **Graphviz** permet de créer des schémas à partir d'un texte en respectant une syntaxe particulière. Je propose plusieurs modèles pour faire des distinctions théoriques, des schémas d'arguments, des plans …
 
-https://forge.aeif.fr/eyssette/graphviz-templates
+https://forge.apps.education.fr/eyssette/graphviz-templates
 
 **Mermaid** permet de faire la même chose, avec une syntaxe différente
 
-https://forge.aeif.fr/eyssette/mermaid-diagrams
+https://forge.apps.education.fr/eyssette/mermaid-diagrams
 
 ### Pour faire un diaporama
 
 **Marp** est un outil qui permet de transformer du Markdown en un diaporama. **Teaching Theme** est un thème pour cet excellent outil
-https://forge.aeif.fr/eyssette/teaching-theme-for-marp
+https://forge.apps.education.fr/eyssette/teaching-theme-for-marp
 
 **ViteUnDiapo** permet de créer très rapidement un diaporama simple à partir d'un texte en Markdown
-https://eyssette.forge.aeif.fr/vite-un-diapo/
+https://eyssette.forge.apps.education.fr/vite-un-diapo/
 
 **weenote-reloaded** est l'outil sur lequel se fonde ViteUnDiapo
-https://forge.aeif.fr/eyssette/weenote-reloaded
+https://forge.apps.education.fr/eyssette/weenote-reloaded
 
 ### Pour la philosophie
 
 **Mark(down)Papers** permet de corriger des copies en Markdown
-https://eyssette.forge.aeif.fr/mark-down-papers/
+https://eyssette.forge.apps.education.fr/mark-down-papers/
 
 **Évaluation rapide** permet de rapidement estimer la note d'une copie
-https://eyssette.forge.aeif.fr/evaluation-rapide/
+https://eyssette.forge.apps.education.fr/evaluation-rapide/
 
 **PhiloMots** est un jeu du type Wordle / Sutom, mais avec des termes ou des thèmes philosophiques
-https://eyssette.forge.aeif.fr/philomots/
+https://eyssette.forge.apps.education.fr/philomots/
 
 ### D'autres petites applications
 
 **Apprendre les prénoms** : un outil pour mémoriser plus facilement les prénoms de ses élèves à partir des trombinoscopes sur Pronote
-https://eyssette.forge.aeif.fr/apprendre/prenoms.html
+https://eyssette.forge.apps.education.fr/apprendre/prenoms.html
 
 **Cards** : un thème pour Marp qui permet de créer des documents au format cartes à jouer
-https://forge.aeif.fr/eyssette/cards
+https://forge.apps.education.fr/eyssette/cards
 
 **Calendrier-avent** : un outil pour créer un calendrier de l'avent en ligne
-https://eyssette.forge.aeif.fr/calendrier-avent
+https://eyssette.forge.apps.education.fr/calendrier-avent
 
 **CombienDeMots** est un compteur de mots qui permet aussi d'estimer le temps de lecture et d'écriture d'un texte
-https://eyssette.forge.aeif.fr/combiendemots/
+https://eyssette.forge.apps.education.fr/combiendemots/
