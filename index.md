@@ -54,6 +54,14 @@ https://eyssette.forge.apps.education.fr/a4/convert.html
 
 https://eyssette.forge.apps.education.fr/argument-map/
 
+### CartesMD
+
+![Interface du logiciel CartesMD : on a un champ de texte à gauche en markdown et le markdown est converti à droite en cartes à jouer](img/cartesMD.png) 
+
+**CartesMD** permet de créer des cartes à jouer en Markdown, qui peuvent servir pour des révisions de cours, pour des formations …
+
+https://cartesMD.forge.apps.education.fr
+
 ### ChatMD
 
 ![Interface du logiciel ChatMD : on a un chatbot avec un champ texte et le chatbot nous répond en fonction de ce qu'on lui indique](img/chatMD.png) 
