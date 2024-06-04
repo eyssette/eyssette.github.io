@@ -60,7 +60,7 @@ https://eyssette.forge.apps.education.fr/argument-map/
 
 **ChatMD** est un chatbot que l'on peut configurer avec un fichier en Markdown
 
-https://eyssette.forge.apps.education.fr/chatMD/
+https://chatmd.forge.apps.education.fr/
 
 
 ### CSE : Custom Searx Engine
@@ -85,7 +85,7 @@ https://eyssette.forge.apps.education.fr/dataview/
 
 **Flipbook** permet de créer facilement un livre numérique que l'on peut feuilleter en ligne à partir d'un simple fichier Markdown (sur la forge ou sur CodiMD).
 
-https://eyssette.forge.apps.education.fr/flipbook/
+https://flipbook.forge.apps.education.fr/
 
 ### Marknews
 
@@ -101,7 +101,7 @@ https://eyssette.forge.apps.education.fr/marknews/
 
 **Markpage** permet de faire, comme Glide, un minisite web / une appli mobile à partir d'un fichier en Markdown (par exemple sur CodiMD)
 
-https://eyssette.forge.apps.education.fr/markpage/
+https://markpage.forge.apps.education.fr/
 
 ### myMarkmap
 
@@ -109,7 +109,7 @@ https://eyssette.forge.apps.education.fr/markpage/
 
 **myMarkmap** est un outil pour créer des cartes mentales en Markdown
 
-https://eyssette.forge.apps.education.fr/myMarkmap
+https://myMarkmap.forge.apps.education.fr/
 
 
 ### Text2quiz
