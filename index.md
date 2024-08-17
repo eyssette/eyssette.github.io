@@ -77,7 +77,7 @@ https://chatmd.forge.apps.education.fr/
 
 **CSE** est un outil pour créer un moteur de recherche personnalisé qui fera des recherches exclusivement sur une liste de sites que l'on définit soi-même dans un fichier en Markdown
 
-https://eyssette.forge.apps.education.fr/cse/
+https://cse.forge.apps.education.fr/
 
 ### Dataview
 
