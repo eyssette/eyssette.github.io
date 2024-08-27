@@ -44,7 +44,7 @@ https://eyssette.forge.apps.education.fr/ressources-generales-enseignement-philo
 
 **A4** permet de mettre en forme automatiquement un texte de manière optimale sur une page A4 prête à imprimer
 
-https://eyssette.forge.apps.education.fr/a4/convert.html
+https://a4.forge.apps.education.fr/
 
 ### Argument map
 
