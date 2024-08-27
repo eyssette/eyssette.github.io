@@ -50,7 +50,7 @@ def add_image_attributes(html):
 	return html
 
 def add_js(html):
-	html = html.replace("</body>",'<script src="script.js"></script>\n</body>')
+	html = html.replace("</body>",'<script src="script.min.js"></script>\n</body>')
 	return html
 
 def main():

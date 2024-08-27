@@ -1,12 +1,19 @@
+variables:
+  FILES_TO_COMPRESS: "html js css ico"
+
 pages:
+  image: alpine:latest
+  before_script:
+    - apk update && apk add gzip brotli
   script:
-    - mkdir .public
-    - cp -r * .public
+    - mkdir -p .public .public/css .public/img
+    - cp favicon.ico index.html script.min.js style.min.css .public/
+    - cp img/* .public/img
     - mv .public public
-    - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\)$' -exec gzip -f -k {} \;
-    - find public -type f -regex '.*\.\(htm\|html\|txt\|text\|js\|css\)$' -exec brotli -f -k {} \;
+    - for ext in $FILES_TO_COMPRESS; do find public -type f -name "*.$ext" -exec gzip -f -k {} \;; done
+    - for ext in $FILES_TO_COMPRESS; do find public -type f -name "*.$ext" -exec brotli -f -k {} \;; done
   artifacts:
     paths:
       - public
-  only:
-    - master
+  rules:
+    - if: $CI_COMMIT_BRANCH == "master"
