@@ -101,7 +101,7 @@ https://flipbook.forge.apps.education.fr/
 
 **Marknews** permet de se faire un tableau de bord de flux RSS et d'organiser sa veille, à partir d'un fichier en Markdown (par exemple sur CodiMD)
 
-https://eyssette.forge.apps.education.fr/marknews/
+https://marknews.forge.apps.education.fr/
 
 ### Markpage
 
