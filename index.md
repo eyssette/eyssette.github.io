@@ -119,6 +119,13 @@ https://markpage.forge.apps.education.fr/
 
 https://myMarkmap.forge.apps.education.fr/
 
+### PDF2flip
+
+![un exemple de livre numérique à feuilleter : le livre Ada & Zangemann](https://minio.apps.education.fr/codimd-prod/uploads/upload_b8185f202723da1448a5401257556975.png) 
+
+**PDF2flip** permet de transformer un PDF en un livre numérique à feuilleter
+
+https://pdf2flip.forge.apps.education.fr/
 
 ### Text2quiz
 
@@ -180,5 +187,11 @@ https://forge.apps.education.fr/eyssette/cards
 **Calendrier-avent** : un outil pour créer un calendrier de l'avent en ligne
 https://eyssette.forge.apps.education.fr/calendrier-avent
 
-**CombienDeMots** est un compteur de mots qui permet aussi d'estimer le temps de lecture et d'écriture d'un texte
+**CombienDeMots** : un compteur de mots qui permet aussi d'estimer le temps de lecture et d'écriture d'un texte
 https://eyssette.forge.apps.education.fr/combiendemots/
+
+**InfosLivre** : un script qui récupère les informations d'un livre quand on est sur la page de l'un des sites reconnus par le script.
+https://eyssette.forge.apps.education.fr/infoslivre/
+
+**MDgenerator** : un outil pour générer du Markdown à partir d'un template
+https://mdgenerator.forge.apps.education.fr/
