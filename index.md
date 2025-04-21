@@ -95,6 +95,14 @@ https://eyssette.forge.apps.education.fr/dataview/
 
 https://flipbook.forge.apps.education.fr/
 
+### Lightpad
+
+![](img/lightpad.png) 
+
+**Lightpad** permet de créer un pad avec des capsules, la possibilité d'organiser en colonnes, avec des tags, un outil de recherche très rapide et des filtres automatiques.
+
+https://lightpad.forge.apps.education.fr/
+
 ### Marknews
 
 ![Page d'accueil de l'application Marknews : l'application affiche des onglets thématiques que l'on peut définir soi-même et pour chaque onglet la liste des articles issus des flux RSS qu'on a sélectionnés](img/marknews.png) 
