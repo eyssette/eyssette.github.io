@@ -40,7 +40,7 @@ https://eyssette.forge.apps.education.fr/ressources-generales-enseignement-philo
 
 ### A4
 
-![Interface du logiciel A4 : un champ texte à remplir et un bouton pour convertir son texte en une page A4 prête à imprimer](img/a4.png) 
+![](img/a4.png) 
 
 **A4** permet de mettre en forme automatiquement un texte de manière optimale sur une page A4 prête à imprimer
 
@@ -48,7 +48,7 @@ https://a4.forge.apps.education.fr/
 
 ### Argument map
 
-![Interface du logiciel Argument map : chaque idée est dans une boîte liée à d'autres par des liens logiques ; une boîte et une flèche rouge signifie qu'on a une objection contre une idée](img/argumentMap.png) 
+![](img/argumentMap.png) 
 
 **Argument map** permet de créer des schémas d'arguments afin de mettre en évidence la structure du raisonnement et les objections possibles
 
@@ -56,7 +56,7 @@ https://eyssette.forge.apps.education.fr/argument-map/
 
 ### CartesMD
 
-![Interface du logiciel CartesMD : on a un champ de texte à gauche en markdown et le markdown est converti à droite en cartes à jouer](img/cartesMD.png) 
+![](img/cartesMD.png) 
 
 **CartesMD** permet de créer des cartes à jouer en Markdown, qui peuvent servir pour des révisions de cours, pour des formations …
 
@@ -64,7 +64,7 @@ https://cartesMD.forge.apps.education.fr
 
 ### ChatMD
 
-![Interface du logiciel ChatMD : on a un chatbot avec un champ texte et le chatbot nous répond en fonction de ce qu'on lui indique](img/chatMD.png) 
+![](img/chatMD.png) 
 
 **ChatMD** est un chatbot que l'on peut configurer avec un fichier en Markdown
 
@@ -73,7 +73,7 @@ https://chatmd.forge.apps.education.fr/
 
 ### CSE : Custom Searx Engine
 
-![Interface du logiciel CSE : on indique dans un champ texte l'objet de sa recherche et le logiciel nous renvoie vers les résultats de cette recherche sur une liste de sites prédéfinie](img/cse.png) 
+![](img/cse.png) 
 
 **CSE** est un outil pour créer un moteur de recherche personnalisé qui fera des recherches exclusivement sur une liste de sites que l'on définit soi-même dans un fichier en Markdown
 
@@ -81,11 +81,11 @@ https://cse.forge.apps.education.fr/
 
 ### Dataview
 
-![Interface du logiciel Dataview : on indique la source de ses données et on peut ensuite convertir ses données en un tableau plus agréable à lire, avec un outil de recherche](img/dataview.png) 
+![](img/dataview.png) 
 
 **Dataview** permet de transformer des données au format CSV ou Markdown en un tableau avec un outil de recherche et de classement des données
 
-https://eyssette.forge.apps.education.fr/dataview/
+https://dataview.forge.apps.education.fr/
 
 ### Flipbook
 
@@ -105,7 +105,7 @@ https://lightpad.forge.apps.education.fr/
 
 ### Marknews
 
-![Page d'accueil de l'application Marknews : l'application affiche des onglets thématiques que l'on peut définir soi-même et pour chaque onglet la liste des articles issus des flux RSS qu'on a sélectionnés](img/marknews.png) 
+![](img/marknews.png) 
 
 **Marknews** permet de se faire un tableau de bord de flux RSS et d'organiser sa veille, à partir d'un fichier en Markdown (par exemple sur CodiMD)
 
@@ -113,7 +113,7 @@ https://marknews.forge.apps.education.fr/
 
 ### Markpage
 
-![Page d'accueil de l'application Markpage : l'application affiche un message initial qu'on peut configurer, puis des boutons qui sont des liens vers différents onglets (qu'on retrouve en bas de page).  Il y a aussi un outil de recherche intégré en haut à droite.](img/markpage.png) 
+![](img/markpage.png) 
 
 **Markpage** permet de faire, comme Glide, un minisite web / une appli mobile à partir d'un fichier en Markdown (par exemple sur CodiMD)
 
@@ -121,7 +121,7 @@ https://markpage.forge.apps.education.fr/
 
 ### myMarkmap
 
-![Interface du logiciel myMarkmap : on voit une carte mentale qui est automatiquement générée par le logiciel à partir d'un texte en Markdown que l'on peut rentrer dans le logiciel en ligne](img/myMarkmap.png) 
+![](img/myMarkmap.png) 
 
 **myMarkmap** est un outil pour créer des cartes mentales en Markdown
 
@@ -129,7 +129,7 @@ https://myMarkmap.forge.apps.education.fr/
 
 ### PDF2flip
 
-![un exemple de livre numérique à feuilleter : le livre Ada & Zangemann](https://minio.apps.education.fr/codimd-prod/uploads/upload_b8185f202723da1448a5401257556975.png) 
+![](https://minio.apps.education.fr/codimd-prod/uploads/upload_b8185f202723da1448a5401257556975.png) 
 
 **PDF2flip** permet de transformer un PDF en un livre numérique à feuilleter
 
@@ -137,7 +137,7 @@ https://pdf2flip.forge.apps.education.fr/
 
 ### Text2quiz
 
-![Interface du logiciel Text2quiz : on voit un quiz généré par text2quiz avec un vrai/faux et un qcm](img/text2quiz.png) 
+![](img/text2quiz.png) 
 
 **Text2quiz** permet de créer automatiquement un quiz à partir d'un simple fichier texte. 13 types de question sont possibles : vrai/faux, QCM, question/réponse, textes à trous, flashcards, remise en ordre, étiquettes à positionner …
 

@@ -41,12 +41,18 @@ def change_position_image(html):
 def add_image_attributes(html):
 	# Définir la regex pour rechercher les balises img
 	regex = r'<img\s(src=".*?")'
+	regex_img_with_no_alt = r'(<img.*?"lazy") />'
 	def replace_img(match):
 		img_src = match.group(1)
 		# Ajouter les attributs spécifiés
-		updated_img_tag = f'<img {img_src} width="400" height="300" loading="lazy"'	
+		updated_img_tag = f'<img {img_src} width="400" height="300" loading="lazy"'
 		return updated_img_tag
+	def add_alt(match):
+		img_with_no_alt = match.group(1)
+		updated_img_with_no_alt = f'{img_with_no_alt} alt />' 
+		return updated_img_with_no_alt
 	html = re.sub(regex, replace_img, html)
+	html = re.sub(regex_img_with_no_alt, add_alt, html)
 	return html
 
 def add_js(html):
