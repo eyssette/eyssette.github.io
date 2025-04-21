@@ -203,9 +203,3 @@ https://eyssette.forge.apps.education.fr/infoslivre/
 
 **MDgenerator** : un outil pour générer du Markdown à partir d'un template
 https://mdgenerator.forge.apps.education.fr/
-
-<style>
-img[alt*="icon"] {
-	max-width:30px;
-}
-</style>
