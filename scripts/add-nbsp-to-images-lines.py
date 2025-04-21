@@ -21,5 +21,5 @@ def add_nbsp_to_image_lines(file_path):
         file.writelines(lines)
 
 if __name__ == "__main__":
-    md_file_path = "index.md"
+    md_file_path = "README.md"
     add_nbsp_to_image_lines(md_file_path)
