@@ -202,7 +202,7 @@ https://eyssette.forge.apps.education.fr/philomots/
 
 ### D'autres petites applications
 
-**Apprendre les prénoms** : un outil pour mémoriser plus facilement les prénoms de ses élèves à partir des trombinoscopes sur Pronote
+**Trombiquiz** : un outil pour mémoriser plus facilement les prénoms de ses élèves à partir des trombinoscopes sur Pronote
 https://eyssette.forge.apps.education.fr/apprendre/prenoms.html
 
 **Cards** : un thème pour Marp qui permet de créer des documents au format cartes à jouer
