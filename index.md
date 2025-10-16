@@ -87,6 +87,14 @@ https://cse.forge.apps.education.fr/
 
 https://dataview.forge.apps.education.fr/
 
+### FlashMD
+
+![Page d'accueil de l'application FlashMD](img/flashmd.png) 
+
+**FlashMD** permet de créer des flashcards en Markdown et de les imprimer ou de les réviser en ligne.
+
+https://flashmd.forge.apps.education.fr/
+
 ### Flipbook
 
 ![Page d'accueil de l'application Flipbook : on voit une page ouverte d'un livre avec un fond de couverture un peu doré](img/flipbook.png) 
@@ -118,6 +126,14 @@ https://marknews.forge.apps.education.fr/
 **Markpage** permet de faire, comme Glide, un minisite web / une appli mobile à partir d'un fichier en Markdown (par exemple sur CodiMD)
 
 https://markpage.forge.apps.education.fr/
+
+### MemoryMD
+
+![Page d'accueil de l'application MemoryMD](img/memorymd.png) 
+
+**MemoryMD** permet de créer rapidement un jeu en ligne de _Memory_, combinant textes, images ou sons dans toutes les configurations possibles.
+
+https://memorymd.forge.apps.education.fr/
 
 ### myMarkmap
 
